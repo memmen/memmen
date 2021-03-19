@@ -1,4 +1,4 @@
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=memmen&count_private=true&show_icons=true)
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=memmen&count_private=true&show_icons=true&theme=dark)
 
 Hi, I'm Brian! I am a full-stack Developer. I love learing new technology and skills everyday.
 ## 🧠 That I know and use
