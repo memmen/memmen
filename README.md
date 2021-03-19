@@ -1,6 +1,6 @@
-Hi, I'm Brian! I am a full-stack Developer. I love learing new technology and skills everyday. 
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=memmen&count_private=true&show_icons=true)
 
-
+Hi, I'm Brian! I am a full-stack Developer. I love learing new technology and skills everyday.
 ## 🧠 That I know and use
 ### 📚 Langues and Frameworks
 - HTML5, Bootstrap, CSS
